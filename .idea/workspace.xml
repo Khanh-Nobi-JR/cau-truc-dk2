@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8bc85bc-050c-449b-aadf-79c4e8110cc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d8bc85bc-050c-449b-aadf-79c4e8110cc2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +26,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baitapjs3/douloveme.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baiTapDieuKien1/bai7.html" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597310186070</updated>
       <workItem from="1597310187239" duration="4176000" />
-      <workItem from="1597333783895" duration="1104000" />
+      <workItem from="1597333783895" duration="1612000" />
     </task>
     <servers />
   </component>
@@ -48,10 +46,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597333801086">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597334983085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597333801086" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597334983085" />
     <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597334016182">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
