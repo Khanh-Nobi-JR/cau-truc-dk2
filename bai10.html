@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai10</title>
+</head>
+<body>
+<input type="text" id="total" placeholder="thông số tổng điện">
+<p><input type="button"onclick="check()" value="check"> Tổng số tiền phải trả là(000): <span id="dien"></span></p>
+<script>
+    function check() {
+        let a = document.getElementById('total').value;
+        if (a <= 100){
+            t = a
+            document.getElementById('dien').innerText = t;
+        } else if (a > 100 && a < 200){
+            t = 100 + a * (a - 100);
+            document.getElementById('dien').innerText = t;
+        } else if (a >= 200){
+            t = 100 + (a-200)*3 + (a-100-(a-200))*2;
+            document.getElementById('dien').innerText = t;
+        } else {
+            document.getElementById('dien').innerText = 'free cho bạn đấy, dùng đi';
+        }
+    }
+
+</script>
+</body>
+</html>
