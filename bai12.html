@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai12</title>
+</head>
+<body>
+<script>
+    let firstMoney = +prompt("nhập số tiền vay gốc:");
+    let year = +prompt("nhập số năm cho vay");
+    let interestRate = 6.9/100 ;
+    let n = 12;
+    let newMoney = firstMoney * (1 + (interestRate/n))**(n*year);
+    let finalInterest = newMoney - firstMoney ;
+    alert("tiền lãi cuối cùng là"+ finalInterest.toFixed(2));
+
+</script>
+</body>
+</html>
